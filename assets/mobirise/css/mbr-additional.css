@@ -1059,6 +1059,24 @@ a {
     left: -1rem;
   }
 }
+.cid-uqLQeLeh7Z {
+  background-image: linear-gradient(360deg, #ffffff 10%, #008f41 100%) !important;
+}
+.cid-uqLQeLeh7Z .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uqLQeLeh7Z .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uqLQeLeh7Z .mbr-section-title {
+  color: #232323;
+}
 .cid-sFzxmVl7J6 {
   padding-top: 7rem;
   padding-bottom: 10rem;
